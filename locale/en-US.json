@@ -1,0 +1,8 @@
+{
+	"ceci-ORCIDLogin": "ORCIDLogin",
+	"ceci-ORCIDLogin/description": "Listens for a message and counts",
+	"ceci-ORCIDLogin/attributes/unit/label": "Unit",
+	"ceci-ORCIDLogin/attributes/unit/description": "Name for items which are being counted.",
+	"ceci-ORCIDLogin/attributes/increment/label": "Increment By",
+	"ceci-ORCIDLogin/attributes/increment/description": "Count up or down with this number."
+}
